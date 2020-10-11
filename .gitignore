@@ -1,0 +1,12 @@
+models/__pycache__/
+pointnet2/__pycache__/
+sunrgbd/__pycache__/
+utils/__pycache__/
+
+# pointnet2 build
+pointnet2/build/
+pointnet2/pointnet2.egg-info/
+pointnet2/dist/
+
+# demo files
+demo_files/
